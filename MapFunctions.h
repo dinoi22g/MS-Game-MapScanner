@@ -14,6 +14,7 @@ typedef struct
 	char name[32];
 } Item;
 
+
 struct Node
 {
 	Node* father;
